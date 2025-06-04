@@ -23,5 +23,3 @@ This project is a React-based frontend web application designed to visualize sto
 * **Styling:** Material UI
 * **API Client:** Axios
 * **Routing:** React Router DOM
-
-## Project Structure
